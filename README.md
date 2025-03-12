@@ -16,7 +16,6 @@ const hamayunWaheed = {
   funFacts: ['I have 5+ years of work experience.']
 }
 ```
-<img align="left" alt="Hamayun's Github Stats" src="https://github-readme-stats.vercel.app/api?username=bot-killer-dot&show_icons=true&theme=dark" />
-<img alt="Hamayun's Languages stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bot-killer-dot&layout=compact&theme=dark" />
+
 <br/>
 <p>You can check out my portfolio <a href="https://hamayun.dev/">here</a><img src="https://media.giphy.com/media/cKPse5DZaptID3YAMK/giphy.gif" width="60"></p>
